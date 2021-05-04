@@ -14,12 +14,12 @@ React 개발을 위한 boilerplate입니다.
 ## 프로젝트 구조
 
 ├─ src
-│ ├─ api/ : API 통신 코드를 작성합니다.
-│ ├─ components/ : 실제 보여지는 컴포넌트를 작성합니다.
-│ ├─ container/ : redux 상태 조회와 handle 함수를 정의하여 컴포넌트에게 넘겨줍니다.
-│ ├─ modules : redux 모듈을 작성합니다.
-│ ├─ pages/ : router로 보여줄 페이지를 작성합니다. 각종 url, params를 처리하여 container에게 넘겨줍니다.
-│ ├─ App.js : 각 Route에 대한 페이지를 정의합니다.
+│ ├─ api/ : API 통신 코드를 작성합니다.  
+│ ├─ components/ : 실제 보여지는 컴포넌트를 작성합니다.  
+│ ├─ container/ : redux 상태 조회와 handle 함수를 정의하여 컴포넌트에게 넘겨줍니다.  
+│ ├─ modules : redux 모듈을 작성합니다.  
+│ ├─ pages/ : router로 보여줄 페이지를 작성합니다. 각종 url, params를 처리하여 container에게 넘겨줍니다.  
+│ ├─ App.js : 각 Route에 대한 페이지를 정의합니다.  
 │ └─ index.js : 앱 진입점이며 redux와 saga를 적용합니다.
 
 ## 프로젝트 동작 로직
