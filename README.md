@@ -13,7 +13,7 @@ React 개발을 위한 boilerplate입니다.
 
 ## 프로젝트 구조
 
-├─ src
+├─ src  
 │ ├─ api/ : API 통신 코드를 작성합니다.  
 │ ├─ components/ : 실제 보여지는 컴포넌트를 작성합니다.  
 │ ├─ container/ : redux 상태 조회와 handle 함수를 정의하여 컴포넌트에게 넘겨줍니다.  
